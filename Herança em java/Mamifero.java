@@ -1,9 +1,9 @@
-package Animais;
+package heranca;
 
 public abstract class Mamifero extends Animal {
 
     public void amamentar(){
-        System.out.println("Fazer o glubglub");
+        System.out.println("Amamentando");
     }
 
 }
